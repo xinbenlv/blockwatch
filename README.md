@@ -13,8 +13,8 @@ A repository keeping track of technical progresses, articles and papers on Block
     - [Web3JS](https://github.com/ethereum/web3.js)
     - [Web3J](https://github.com/web3j/web3j)
     - [Web3Swift](https://github.com/BANKEX/web3swift)
-
-- Hyperledger
+- [Hyperledger]
+- [IPFS](https://ipfs.io/), [dev portal](https://github.com/ipfs)
 
 ## Watched Academic Community / Conference / Journals
 - [Ledger Journal](https://ledgerjournal.org/ojs/index.php/ledger)
