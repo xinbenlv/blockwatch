@@ -1,4 +1,4 @@
-# blocktechwatch
+# blockwatch
 A repository keeping track of technical progresses, articles and papers on Blockchain Technology
 
 ## Classic Papers
