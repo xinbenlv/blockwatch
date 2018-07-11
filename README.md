@@ -18,3 +18,6 @@ A repository keeping track of technical progresses, articles and papers on Block
 
 ## Watched Academic Community / Conference / Journals
 - [Ledger Journal](https://ledgerjournal.org/ojs/index.php/ledger)
+
+## Tutorial 
+ - [Learning Ethereum](https://ethereumbook.info/)
