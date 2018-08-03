@@ -21,3 +21,7 @@ A repository keeping track of technical progresses, articles and papers on Block
 
 ## Tutorial 
  - [Learning Ethereum](https://ethereumbook.info/)
+
+
+## Watched Tech Collection
+[@alant/learn-contracts](https://github.com/alant/learn-contracts)
