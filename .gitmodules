@@ -1,0 +1,3 @@
+[submodule "learn-contracts"]
+	path = learn-contracts
+	url = https://github.com/alant/learn-contracts.git
