@@ -22,9 +22,11 @@ A repository keeping track of technical progresses, articles and papers on Block
 ## Tutorial 
  - [Learning Ethereum](https://ethereumbook.info/)
 
-## Application
+## Applications
 - Chat and Discussion
   - [Matrix](https://matrix.org)
+- Governance
+  - [Aragon](https://github.com/aragon)
 
 ## Watched Tech Collection
 [@alant/learn-contracts](https://github.com/alant/learn-contracts)
