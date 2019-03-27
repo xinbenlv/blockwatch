@@ -8,10 +8,10 @@ A repository keeping track of technical progresses, articles and papers on Block
 ## Watched Blockchain Project
 - Bitcoin
 - [Ethereum](https://ethereum.org/)
-- Bancor
-- Powh.io
-- [Hyperledger]
+- [Bancor](https://bancor.network)
+- [Powh3D](https://powh.io/)
 - [IPFS](https://ipfs.io/), [dev portal](https://github.com/ipfs)
+- [Hyperledger]
 
 ## Tach
 
