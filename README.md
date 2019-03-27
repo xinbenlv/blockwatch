@@ -5,16 +5,15 @@ A repository keeping track of technical progresses, articles and papers on Block
 - [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
 - [Ethereum](https://github.com/ethereum/wiki/wiki/White-Paper)
 
-## Watched Blockchain Platforms
+## Watched Blockchain Project
 - Bitcoin
 - [Ethereum](https://ethereum.org/)
-  - [EIPs](https://eips.ethereum.org/)
-  - Web3 Client SDK
-    - [Web3JS](https://github.com/ethereum/web3.js)
-    - [Web3J](https://github.com/web3j/web3j)
-    - [Web3Swift](https://github.com/BANKEX/web3swift)
+- Bancor
+- Powh.io
 - [Hyperledger]
 - [IPFS](https://ipfs.io/), [dev portal](https://github.com/ipfs)
+
+## Tach
 
 ## Watched Academic Community / Conference / Journals
 - [Ledger Journal](https://ledgerjournal.org/ojs/index.php/ledger)
