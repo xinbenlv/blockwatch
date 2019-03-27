@@ -5,13 +5,20 @@ A repository keeping track of technical progresses, articles and papers on Block
 - [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
 - [Ethereum](https://github.com/ethereum/wiki/wiki/White-Paper)
 
-## Watched Blockchain Project
-- Bitcoin
+## Chains
+- [Bitcoin](http://blockchain.io)
 - [Ethereum](https://ethereum.org/)
+- [Quarkchain]
+- [Celer Network]
+- [Lighting Network]
+- [Hyperledger]
+
+## Applications
 - [Bancor](https://bancor.network)
 - [Powh3D](https://powh.io/)
-- [IPFS](https://ipfs.io/), [dev portal](https://github.com/ipfs)
-- [Hyperledger]
+- [IPFS](https://ipfs.io/)
+- [Lino](http://lino.network)
+
 
 ## Tach
 
